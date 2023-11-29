@@ -1,0 +1,18 @@
+.img{
+  display:flex;
+  justify-content:center;
+}
+h1{
+  text-align:center;
+  color:MidnightBlue;
+}
+body{
+  background-image:url("https://static.tildacdn.com/tild3462-6431-4436-a164-636233643239/2027.jpg");
+}
+a{
+  text-decoration:none;
+  border:3px dotted gray;
+  color:MidnightBlue;
+  font-size:20px;
+  box-shadow:5px 5px 10px black;
+}
